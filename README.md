@@ -36,3 +36,12 @@
 ![人脸搜索](https://github.com/arstsundere/API_F_PRD/blob/master/3f90488022687356483653ef0e3b53f.png)
 #### 人脸搜索输出结果
 ![人脸搜索输出结果](https://github.com/arstsundere/API_F_PRD/blob/master/eef322464b85c94c51005cb233bf1b3.png)
+
+### API使用水平
+输入：点击/触摸毕业生头像
+输出：毕业生信息（姓名，性别，院系、班级）
+
+### 使用比较分析
+对比项:face++,百度API
+Face++目前只有文字自定义训练库,有提供免费试用、WebAPI接入0.0005-0.01元/次等
+百度api比较好，有自定义图像训练库，还有训练报告，有提供免费试用、开通续费0.0007元/次
