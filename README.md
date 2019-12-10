@@ -36,3 +36,10 @@
 ### 三、原型文档
 
 ## API 产品使用关键AI或机器学习之API的输出入展示
+#### 人脸库导入
+![人脸库导入](https://github.com/arstsundere/API_F_PRD/blob/master/%E4%BA%BA%E8%84%B8%E5%BA%93%E7%AE%A1%E7%90%861.png)
+
+#### 人脸搜索
+![人脸搜索](https://github.com/arstsundere/API_F_PRD/blob/master/3f90488022687356483653ef0e3b53f.png)
+#### 人脸搜索输出结果
+![人脸搜索输出结果](https://github.com/arstsundere/API_F_PRD/blob/master/eef322464b85c94c51005cb233bf1b3.png)
