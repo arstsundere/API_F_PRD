@@ -1,6 +1,7 @@
 # API_F_PRD
 ## 项目：eGALLERY 智能毕业相册app
 ### 语音口白Powerpoint：[20x20PPT](2020.pptx)
+[20x20备用gitee链接](https://gitee.com/NFUNM078/yuanxingyulan/blob/master/2020.pptx)
 ## 1.价值主张设计
 
 ### 1.1加值宣言
